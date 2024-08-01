@@ -1,1 +1,1 @@
-This is Git example
+This is an Git of example
